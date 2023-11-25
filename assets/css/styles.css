@@ -1,0 +1,8 @@
+.titulo:hover {
+  background-color: var(--bs-orange);
+}
+
+.fondo {
+  background-color: var(--bs-red);
+}
+
